@@ -1,1 +1,2 @@
-# js-basic-
+# js-basic-questions
+simple interview questions
